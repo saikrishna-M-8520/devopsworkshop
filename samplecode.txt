@@ -1,6 +1,6 @@
 
 Hello my name is krishna
-Hello my name is sai
+Hello my name is ravi
 This is git demo for merge conflict
 This is third line of projectcode
 This is next to  5th line
