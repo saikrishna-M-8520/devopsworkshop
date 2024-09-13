@@ -3,4 +3,5 @@ Hello my name is krishna
 Hello my name is siddharth
 This is git demo for merge conflict
 This is third line of projectcode
-This 6th line
+This is next to  5th line
+
