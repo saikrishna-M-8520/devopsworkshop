@@ -2,6 +2,7 @@
 Hello my name is krishna
 Hello my name is ravi
 Hello my name is sai
+Hello my name is theja
 Hello my name is siddharth
 Hello today is saturday
 This is git demo for merge conflict
